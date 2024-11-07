@@ -1,0 +1,41 @@
+.table01, th, td {
+  border: 1px solid black;
+}
+
+.table01 {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+.td-center {
+  text-align: center;
+}
+
+.table02, th, td {
+  border: 1px solid black;
+}
+
+.table02 {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 50px;
+}
+
+.th-left {
+  text-align: left;
+}
+
+.table03, th, td {
+  border: 1px solid black;
+}
+
+.table03 {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.td-bottom {
+  height: 50px;
+  vertical-align: bottom;
+}
